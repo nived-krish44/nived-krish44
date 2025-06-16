@@ -13,16 +13,19 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/nived-krishna-sa44444/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/nived-krishna-sa44444/](https://leetcode.com/u/nivedkrishna/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"  />
+  </a>
 <!---  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /> --->
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+ <!-- <img src="https://img.shields.io/static/v1?message=leetcode&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /> -->
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+
 
 ###
 
@@ -34,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<p align="left">I'm Nived Krishna S A  from GEC Thrissur <br><br>- 
+<p align="left">I'm Nived Krishna S A  from GEC Thrissur <br><br>
   <!--🔭 -->
   <!--I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p> ---!>
 

@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <p align="left">I'm Nived Krishna S A  from GEC Thrissur <br><br>- 🔭 
-  <!--I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+  <!--I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p> ---!>
 
 ###
 

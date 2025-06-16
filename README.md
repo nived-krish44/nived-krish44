@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/nived-krishna-sa44444/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/nived-krishna-sa44444/](https://leetcode.com/u/nivedkrishna/" target="_blank">
+  <a href="https://leetcode.com/u/nivedkrishna/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Leetcode&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"  />
   </a>
 <!---  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /> --->

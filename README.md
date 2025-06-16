@@ -1,4 +1,4 @@
-<h>👋 **Hi, I’m Nived krishna**</h>
+<!--<h>👋 **Hi, I’m Nived krishna**</h> ---!>
 
 
 <!---
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+<!---  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /> --->
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
@@ -34,7 +34,8 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<p align="left">I'm Nived Krishna S A  from GEC Thrissur <br><br>- 🔭 
+<p align="left">I'm Nived Krishna S A  from GEC Thrissur <br><br>- 
+  <!--🔭 -->
   <!--I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p> ---!>
 
 ###
